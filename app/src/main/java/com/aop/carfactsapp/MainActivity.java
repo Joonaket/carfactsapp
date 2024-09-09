@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         bmw.story = "The BMW 2002 Turbo is regarded as one of the first production cars to feature turbocharging technology.\n" +
                 "It was initially released in limited numbers due to the oil crisis of the early 1970s, which affected demand for high-performance vehicles.\n" +
                 "The 2002 Turbo has since become a sought-after classic among enthusiasts, known for its driving dynamics and iconic design.";
-
+        bmw.imageId ="bmw2002t.jpeg";
 
         mini.name="Mini Clubman";
         mini.specSheet = "Engine:\n" +

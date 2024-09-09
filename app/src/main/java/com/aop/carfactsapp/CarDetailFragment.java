@@ -13,10 +13,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-public class CarDetailsFragment extends Fragment {
+public class CarDetailFragment extends Fragment {
 
 
-    public CarDetailsFragment() {}
+    public CarDetailFragment() {}
 
 
     @Override
